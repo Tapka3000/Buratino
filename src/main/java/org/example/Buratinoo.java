@@ -7,8 +7,8 @@ public class Buratinoo {
 
         int c = a - b;
 
-        System.out.println("Количество яблок у Буратино" + a);
-        System.out.println("Количество яблок, украдено Карабасом Барабасом" + b);
+        System.out.println("Количество яблок у Буратино " + a);
+        System.out.println("Количество яблок, украдено Карабасом Барабасом " + b);
         System.out.println(c + " яблок осталось у Буратино");
     }
 }
